@@ -1,0 +1,20 @@
+ion-content{
+  background: linear-gradient(to bottom, #ddd6f3,#faaca8);
+}
+
+h2{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #ec6f66;
+}
+
+p{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+}
+
+ion-item{
+  color:#ec6f66;
+  background: #1d2671;
+}
+
